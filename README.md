@@ -1,1 +1,1 @@
-# GithubTrendsApp
+# GithubTrendsApp https://circleci.com/gh/slum44/GithubTrendsApp.svg?style=shield&circle-token=:circle-token
