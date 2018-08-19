@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubTrendsApp</string>
+    <string name="stargazers">stargazers</string>
+    <string name="forks">forks</string>
+    <string name="error_msg_load_repos">Houston we have a problem!\nPlease swipe to refresh to try again</string>
+    <string name="error_msg_detail">Houston we have a problem!\nSorry - unable to load this information</string>
+    <string name="avatar">avatar</string>
+    <string name="star">star</string>
+    <string name="fork">fork</string>
+
+</resources>
